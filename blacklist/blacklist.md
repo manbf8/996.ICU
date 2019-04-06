@@ -81,6 +81,7 @@
 |嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
+|重庆|[中国移动通信集团有限公司中移物联网有限公司](http://iot.10086.cn/)|2019年4月|996|[人均工作时长12小时] ![image](https://github.com/manbf8/996.ICU/blob/e22e51084b79008f98dede3edec578eb2e732a2c/blacklist/img/iot10086.jpg)|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
